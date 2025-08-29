@@ -1,0 +1,64 @@
+/* src/components/Navbar.css 
+.navbar {
+  background: linear-gradient(90deg, #0a74da, #1d8fff);
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar .logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.navbar .logo a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: 0.5px;
+}
+
+.navbar .nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navbar .nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.2s ease-in-out;
+}
+
+.navbar .nav-links a:hover {
+  color: #ffd700; /* gold hover 
+}
+
+.navbar .auth-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar .nav-btn {
+  background: #fff;
+  color: #0a74da;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.navbar .nav-btn:hover {
+  background: #0a74da;
+  color: #fff;
+}
+*/
